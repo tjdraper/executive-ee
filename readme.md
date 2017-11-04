@@ -2,6 +2,10 @@
     <h1>Executive: A CLI for ExpressionEngine</h1>
 </div>
 
+## Legacy EE 3 version
+
+This branch contains the legacy version of Executive 1.x for ExpressionEngine 3.
+
 ## About Executive for ExpressionEngine
 
 Executive provides a command line interface into ExpressionEngine, custom migrations, custom class auto-loading, developer defined extensions per/project, developer template tags per/project, and custom control panel sections per/project. You can run commands as you're developing, log in to your server via SSH and run commands, run commands on deploy, schedule commands to run at certain intervals, and more.
