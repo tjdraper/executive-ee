@@ -1,3 +1,9 @@
+Please note that while this repo and package have been abandoned. The project is not dead! It has simply moved to https://github.com/buzzingpixel/executive-ee
+
+Please head to that repo for 3.x and newer.
+
+---
+
 <div align="center">
     <h1>Executive: A CLI for ExpressionEngine</h1>
 </div>
